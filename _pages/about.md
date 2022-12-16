@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dylan Domel-White - Academic Webpage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
