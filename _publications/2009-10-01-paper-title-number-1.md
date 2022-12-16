@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Phase Retrieval by Binary Questions: Which Complementary Subspace is Closer?"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-07-11-PRByBinaryQuestions
+excerpt: 'Phase retrieval in real or complex Hilbert spaces is the task of recovering a vector, up to an overall unimodular multiplicative constant, from magnitudes of linear measurements. In this paper, we assume that the vector is normalized, but retain only qualitative, binary information about the measured magnitudes by comparing them with a threshold. In more specific, geometric terms, we choose a sequence of subspaces in a real or complex Hilbert space and only record whether a given vector is closer to the subspace than to the complementary subspace. The subspaces have half the dimension of the Hilbert space and are independent, uniformly distributed with respect to the action of the orthogonal or unitary groups. The main goal of this paper is to find a feasible algorithm for approximate recovery based on the information gained about the vector from these binary questions and to establish error bounds for its approximate recovery. We provide a pointwise bound for fixed input vectors and a uniform bound that controls the worst-case scenario among all inputs. Both bounds hold with high probability with respect to the choice of the subspaces.'
+date: 2022-07-11
+venue: 'Constructive Approximation'
+paperurl: 'https://link.springer.com/article/10.1007/s00365-022-09582-5'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
