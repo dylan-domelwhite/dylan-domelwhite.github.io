@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "MATH 2810: Probability and Statistics for Engineering"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2021-07-01-ProbStats1
+venue: "Vanderbilt University, Department of Mathematics"
+date: 2021-07-01
+location: "Nashville, TN"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
