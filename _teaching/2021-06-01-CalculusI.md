@@ -1,5 +1,5 @@
 ---
-title: "MATH 1200 - Calculus I"
+title: "MATH 1200: Calculus I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-06-01-CalculusI
