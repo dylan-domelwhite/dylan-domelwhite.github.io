@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, University of Houston, 2020
+* B.S. in Mathematics (minor in Computer Science), University of Houston, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 - Present: Postdoctoral Scholar
+  * Vanderbilt University
+  * Duties include: mathematics research, teaching courses
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Spring 2020: Research Assistant
+  * University of Houston
+  * Duties included: mathematics research
+  * Supervisor: [Bernhard G. Bodmann](https://www.math.uh.edu/~bgb/)
+
+* Fall 2015 - Spring 2017: Teaching Assistant
+  * University of Houston
+  * Duties included: preparing lectures and quizzes, grading
+  * Served as **lead TA** for two semesters
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+* Programming
+  * Python
+  * MATLAB
+  * Java
+  * C#
+* LaTeX
 
 Publications
 ======
@@ -56,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizer for Vanderbilt math department's [Computational Analysis Seminar](https://my.vanderbilt.edu/cca/seminars/)
+* President of AMS Graduate Student Chapter at University of Houston
