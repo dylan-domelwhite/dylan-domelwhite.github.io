@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/graduate course"
 permalink: /teaching/2021-01-01-AdvancedLinear
 venue: "Vanderbilt University, Department of Mathematics"
-date: 2021-01-01-AdvancedLinear
+date: 2021-01-01
 location: "Nashville, TN"
 ---
 
