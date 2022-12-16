@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Nashville, TN"
 ---
 
-Hybrid course, half of class in person and half on Zoom.
+Hybrid teaching, half of class online and half in-person.
