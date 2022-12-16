@@ -7,3 +7,5 @@ venue: "Vanderbilt University, Department of Mathematics"
 date: 2021-01-01-AdvancedLinear
 location: "Nashville, TN"
 ---
+
+Hybrid course, half of class in person and half on Zoom.
